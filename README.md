@@ -1,2 +1,2 @@
 # lcd
-display for controling parametrs of the converter
+lcd display for controling parametrs of the converter
