@@ -1,0 +1,1762 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              src/lcd.o (_ZN5Print5printEPKc)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              src/canMessage.o (millis)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              src/buttons.o (pinMode)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                              src/canMessage.o (_ZN7MCP2515C1Eh)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                              src/lcd.o (_ZN17LiquidCrystal_I2CC1Ehhh)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                              src/canMessage.o (_ZN8SPIClass5beginEv)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o) (_ZN7TwoWire5writeEh)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o) (twi_init)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              src/canMessage.o (__divmodhi4)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__udivmodsi4)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o) (__tablejump2__)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              src/canMessage.o (__do_copy_data)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              src/canMessage.o (__do_clear_bss)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              src/canMessage.o (__do_global_ctors)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              src/canMessage.o (__fixsfsi)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              src/canMessage.o (__mulsf3)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o) (memcpy)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 src/buttons.o
+ .data          0x00000000        0x0 src/buttons.o
+ .bss           0x00000000        0x0 src/buttons.o
+ .text          0x00000000        0x0 src/canMessage.o
+ .data          0x00000000        0x0 src/canMessage.o
+ .bss           0x00000000        0x0 src/canMessage.o
+ .text._Z10set_valuesi9lcdValues
+                0x00000000       0x12 src/canMessage.o
+ .bss.previousMillisLed
+                0x00000000        0x4 src/canMessage.o
+ .bss.ledState  0x00000000        0x2 src/canMessage.o
+ .bss.flagLight
+                0x00000000        0x2 src/canMessage.o
+ .text          0x00000000        0x0 src/index.o
+ .data          0x00000000        0x0 src/index.o
+ .bss           0x00000000        0x0 src/index.o
+ .bss.blinkTime2
+                0x00000000        0x4 src/index.o
+ .bss.millis_held_F2
+                0x00000000        0x4 src/index.o
+ .bss.millis_held_F1
+                0x00000000        0x4 src/index.o
+ .bss.firstTimeF1
+                0x00000000        0x4 src/index.o
+ .bss.secs_held
+                0x00000000        0x4 src/index.o
+ .bss.millis_held
+                0x00000000        0x4 src/index.o
+ .text          0x00000000        0x0 src/lcd.o
+ .data          0x00000000        0x0 src/lcd.o
+ .bss           0x00000000        0x0 src/lcd.o
+ .text._Z10get_value_10lcdValues_
+                0x00000000       0x12 src/lcd.o
+ .bss.values_   0x00000000       0x21 src/lcd.o
+ .text          0x00000000        0x0 src/main.o
+ .data          0x00000000        0x0 src/main.o
+ .bss           0x00000000        0x0 src/main.o
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata.str1.1
+                0x00000000        0xf C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000       0x1a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1b6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251517setListenOnlyModeEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251512setSleepModeEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251515setLoopbackModeEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251510setBitrateE9CAN_SPEED
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP25159setClkOutE10CAN_CLKOUT
+                0x00000000       0x42 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251512checkReceiveEv
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251513getErrorFlagsEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251510checkErrorEv
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251516clearRXnOVRFlagsEv
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251513getInterruptsEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251515clearInterruptsEv
+                0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251516getInterruptMaskEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251517clearTXInterruptsEv
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251511clearRXnOVREv
+                0x00000000       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP25159clearMERREv
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251510clearERRIFEv
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251512errorCountRXEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .text._ZN7MCP251512errorCountTXEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C8printstrEPKc
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C3offEv
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C2onEv
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C8setDelayEii
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C6statusEv
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C6keypadEv
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C13init_bargraphEh
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C21draw_horizontal_graphEhhhh
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C19draw_vertical_graphEhhhh
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C11setContrastEh
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C11noBacklightEv
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C12setBacklightEh
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C9noDisplayEv
+                0x00000000        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C8noCursorEv
+                0x00000000        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C10cursor_offEv
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C6cursorEv
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C9cursor_onEv
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C7noBlinkEv
+                0x00000000        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C9blink_offEv
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C5blinkEv
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C8blink_onEv
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C17scrollDisplayLeftEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C18scrollDisplayRightEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C11leftToRightEv
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C11rightToLeftEv
+                0x00000000        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C10autoscrollEv
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C12noAutoscrollEv
+                0x00000000        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C10createCharEhPh
+                0x00000000       0x50 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C21load_custom_characterEhPh
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text._ZN17LiquidCrystal_I2C10createCharEhPKc
+                0x00000000       0x54 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass3endEv
+                0x00000000       0x28 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass14usingInterruptEh
+                0x00000000       0x38 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .text._ZN8SPIClass17notUsingInterruptEh
+                0x00000000       0x36 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .bss.SPI       0x00000000        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .group         0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire5beginEh
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire5beginEi
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire3endEv
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire8setClockEm
+                0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire17beginTransmissionEi
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhhmhh
+                0x00000000       0xa8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhhh
+                0x00000000       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEhh
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEii
+                0x00000000        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire11requestFromEiii
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire9onReceiveEPFviE
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text._ZN7TwoWire9onRequestEPFvvE
+                0x00000000        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0x88 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x1a1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .data          0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss           0x00000000        0x0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_disable
+                0x00000000       0x1a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_setAddress
+                0x00000000        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_setFrequency
+                0x00000000       0x28 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_readFrom
+                0x00000000       0x90 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text.twi_reply
+                0x00000000       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD src/buttons.o
+LOAD src/canMessage.o
+LOAD src/index.o
+LOAD src/lcd.o
+LOAD src/main.o
+START GROUP
+LOAD C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x32da
+ *(.vectors)
+ .vectors       0x00000000       0x68 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table._ZN7MCP251510setBitrateE9CAN_SPEED9CAN_CLOCK
+                0x00000068       0x58 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .progmem.gcc_sw_table._ZN17LiquidCrystal_I2C6outStrEPc
+                0x000000c0      0x144 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00000204                . = ALIGN (0x2)
+                0x00000204                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000204        0x0 linker stubs
+ *(.trampolines*)
+                0x00000204                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000204       0x14 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000204                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x00000218       0x14 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000218                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x0000022c       0x14 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000022c                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x00000240        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000240                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x0000024a        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000024a                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x00000254        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000254                port_to_mode_PGM
+                0x0000025e                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000025e                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000025e        0x2 src/canMessage.o
+ .ctors         0x00000260        0x2 src/lcd.o
+ .ctors         0x00000262        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00000264                __ctors_end = .
+                0x00000264                __dtors_start = .
+ *(.dtors)
+                0x00000264                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000264        0x0 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000264                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000264        0xc D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000270       0x16 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x00000270                __do_copy_data
+ .init4         0x00000286       0x10 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000286                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000296       0x16 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x00000296                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000002ac        0x8 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000002b4        0x4 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000002b4                __vector_22
+                0x000002b4                __vector_1
+                0x000002b4                __vector_12
+                0x000002b4                __bad_interrupt
+                0x000002b4                __vector_6
+                0x000002b4                __vector_3
+                0x000002b4                __vector_23
+                0x000002b4                __vector_25
+                0x000002b4                __vector_11
+                0x000002b4                __vector_13
+                0x000002b4                __vector_17
+                0x000002b4                __vector_19
+                0x000002b4                __vector_7
+                0x000002b4                __vector_5
+                0x000002b4                __vector_4
+                0x000002b4                __vector_9
+                0x000002b4                __vector_2
+                0x000002b4                __vector_21
+                0x000002b4                __vector_15
+                0x000002b4                __vector_8
+                0x000002b4                __vector_14
+                0x000002b4                __vector_10
+                0x000002b4                __vector_18
+                0x000002b4                __vector_20
+                0x000002b8                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z12buttons_initv
+                0x000002b8       0x30 src/buttons.o
+                0x000002b8                _Z12buttons_initv
+ .text._Z9get_value9lcdValues
+                0x000002e8       0x12 src/canMessage.o
+                0x000002e8                _Z9get_value9lcdValues
+ .text._Z8can_initv
+                0x000002fa       0x30 src/canMessage.o
+                0x000002fa                _Z8can_initv
+ .text._Z20get_values_for_pagesv
+                0x0000032a      0x2ec src/canMessage.o
+                0x0000032a                _Z20get_values_for_pagesv
+ .text._Z20send_control_messagev
+                0x00000616      0x124 src/canMessage.o
+                0x00000616                _Z20send_control_messagev
+ .text._Z20control_leds_messagev
+                0x0000073a       0x1e src/canMessage.o
+                0x0000073a                _Z20control_leds_messagev
+ .text._Z17can_change_page_7ii
+                0x00000758       0x34 src/canMessage.o
+                0x00000758                _Z17can_change_page_7ii
+ .text.startup._GLOBAL__sub_I_mcp2515
+                0x0000078c        0xa src/canMessage.o
+ .text._Z24enter_mode_change_valuesv
+                0x00000796       0x8a src/index.o
+                0x00000796                _Z24enter_mode_change_valuesv
+ .text._Z13access_valuesv
+                0x00000820       0x3a src/index.o
+                0x00000820                _Z13access_valuesv
+ .text._Z12modify_valueii
+                0x0000085a       0x20 src/index.o
+                0x0000085a                _Z12modify_valueii
+ .text._Z19modify_chosen_valuev
+                0x0000087a       0xce src/index.o
+                0x0000087a                _Z19modify_chosen_valuev
+ .text._Z20choose_changed_valuev
+                0x00000948      0x2c8 src/index.o
+                0x00000948                _Z20choose_changed_valuev
+ .text._Z23exit_mode_change_valuesv
+                0x00000c10       0x2e src/index.o
+                0x00000c10                _Z23exit_mode_change_valuesv
+ .text._Z22enter_mode_show_valuesv
+                0x00000c3e       0x20 src/index.o
+                0x00000c3e                _Z22enter_mode_show_valuesv
+ .text._Z14mode_show_pagev
+                0x00000c5e       0x2e src/index.o
+                0x00000c5e                _Z14mode_show_pagev
+ .text._Z23modify_and_show_displayv
+                0x00000c8c       0xb6 src/index.o
+                0x00000c8c                _Z23modify_and_show_displayv
+ .text._Z11set_values_i10lcdValues_
+                0x00000d42       0x12 src/lcd.o
+                0x00000d42                _Z11set_values_i10lcdValues_
+ .text._Z14print_value_eniiPc
+                0x00000d54       0x20 src/lcd.o
+                0x00000d54                _Z14print_value_eniiPc
+ .text._Z15print_value_rusiiPc
+                0x00000d74       0x20 src/lcd.o
+                0x00000d74                _Z15print_value_rusiiPc
+ .text._Z11print_valueiii
+                0x00000d94       0x24 src/lcd.o
+                0x00000d94                _Z11print_valueiii
+ .text._Z21print_values_straightiii
+                0x00000db8       0x60 src/lcd.o
+                0x00000db8                _Z21print_values_straightiii
+ .text._Z13values_page_1v
+                0x00000e18       0x7c src/lcd.o
+                0x00000e18                _Z13values_page_1v
+ .text._Z13values_page_2v
+                0x00000e94       0x3c src/lcd.o
+                0x00000e94                _Z13values_page_2v
+ .text._Z13values_page_3v
+                0x00000ed0       0x3c src/lcd.o
+                0x00000ed0                _Z13values_page_3v
+ .text._Z13values_page_4v
+                0x00000f0c       0x3c src/lcd.o
+                0x00000f0c                _Z13values_page_4v
+ .text._Z13values_page_5v
+                0x00000f48       0x3c src/lcd.o
+                0x00000f48                _Z13values_page_5v
+ .text._Z13values_page_6v
+                0x00000f84      0x120 src/lcd.o
+                0x00000f84                _Z13values_page_6v
+ .text._Z13values_page_7v
+                0x000010a4       0x2c src/lcd.o
+                0x000010a4                _Z13values_page_7v
+ .text._Z17lcd_change_page_7ii
+                0x000010d0       0x92 src/lcd.o
+                0x000010d0                _Z17lcd_change_page_7ii
+ .text._Z5page1v
+                0x00001162       0x98 src/lcd.o
+                0x00001162                _Z5page1v
+ .text._Z5page2v
+                0x000011fa       0x78 src/lcd.o
+                0x000011fa                _Z5page2v
+ .text._Z5page3v
+                0x00001272       0x78 src/lcd.o
+                0x00001272                _Z5page3v
+ .text._Z5page4v
+                0x000012ea       0x78 src/lcd.o
+                0x000012ea                _Z5page4v
+ .text._Z5page5v
+                0x00001362       0x78 src/lcd.o
+                0x00001362                _Z5page5v
+ .text._Z5page6v
+                0x000013da       0x4c src/lcd.o
+                0x000013da                _Z5page6v
+ .text._Z5page0v
+                0x00001426       0x48 src/lcd.o
+                0x00001426                _Z5page0v
+ .text._Z5page7v
+                0x0000146e       0x5a src/lcd.o
+                0x0000146e                _Z5page7v
+ .text._Z8lcd_initv
+                0x000014c8       0x44 src/lcd.o
+                0x000014c8                _Z8lcd_initv
+ .text._Z19show_current_valuesv
+                0x0000150c       0x42 src/lcd.o
+                0x0000150c                _Z19show_current_valuesv
+ .text._Z11switch_pagev
+                0x0000154e       0x6e src/lcd.o
+                0x0000154e                _Z11switch_pagev
+ .text.startup._GLOBAL__sub_I_values_
+                0x000015bc        0xe src/lcd.o
+ .text.setup    0x000015ca        0xc src/main.o
+                0x000015ca                setup
+ .text.loop     0x000015d6        0xc src/main.o
+                0x000015d6                loop
+ .text.initVariant
+                0x000015e2        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000015e2                initVariant
+ .text.startup.main
+                0x000015e4       0x1e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x000015e4                main
+ .text._ZN5Print17availableForWriteEv
+                0x00001602        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001602                _ZN5Print17availableForWriteEv
+ .text._ZN5Print5flushEv
+                0x00001608        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001608                _ZN5Print5flushEv
+ .text._ZN5Print5writeEPKhj
+                0x0000160a       0x54 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000160a                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x0000165e       0x2a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000165e                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00001688        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00001688                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x0000168c        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000168c                _ZN5Print5printEc
+ .text._ZN5Print11printNumberEmh
+                0x0000169a       0x92 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000169a                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEli
+                0x0000172c       0x90 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x0000172c                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x000017bc        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x000017bc                _ZN5Print5printEii
+ .text.__vector_16
+                0x000017ca       0x94 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000017ca                __vector_16
+ .text.millis   0x0000185e       0x18 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000185e                millis
+ .text.micros   0x00001876       0x4a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001876                micros
+ .text.delay    0x000018c0       0x78 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x000018c0                delay
+ .text.delayMicroseconds
+                0x00001938       0x16 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00001938                delayMicroseconds
+ .text.init     0x0000194e       0x76 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x0000194e                init
+ .text.turnOffPWM
+                0x000019c4       0x52 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00001a16       0x78 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001a16                pinMode
+ .text.digitalWrite
+                0x00001a8e       0x5e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001a8e                digitalWrite
+ .text.digitalRead
+                0x00001aec       0x52 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00001aec                digitalRead
+ .text._ZN8SPIClass8transferEh
+                0x00001b3e        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001b3e                _ZN8SPIClass8transferEh
+ .text._ZN7MCP25158startSPIEv
+                0x00001b4c       0x40 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001b4c                _ZN7MCP25158startSPIEv
+ .text._ZN7MCP25156endSPIEv
+                0x00001b8c       0x2c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001b8c                _ZN7MCP25156endSPIEv
+ .text._ZN7MCP2515C2Eh
+                0x00001bb8       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001bb8                _ZN7MCP2515C2Eh
+                0x00001bb8                _ZN7MCP2515C1Eh
+ .text._ZN7MCP251512readRegisterENS_8REGISTERE
+                0x00001bdc       0x32 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001bdc                _ZN7MCP251512readRegisterENS_8REGISTERE
+ .text._ZN7MCP251513readRegistersENS_8REGISTEREPhh
+                0x00001c0e       0x58 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001c0e                _ZN7MCP251513readRegistersENS_8REGISTEREPhh
+ .text._ZN7MCP251511setRegisterENS_8REGISTEREh
+                0x00001c66       0x32 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001c66                _ZN7MCP251511setRegisterENS_8REGISTEREh
+ .text._ZN7MCP251512setRegistersENS_8REGISTEREPKhh
+                0x00001c98       0x56 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001c98                _ZN7MCP251512setRegistersENS_8REGISTEREPKhh
+ .text._ZN7MCP251514modifyRegisterENS_8REGISTEREhh
+                0x00001cee       0x3e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001cee                _ZN7MCP251514modifyRegisterENS_8REGISTEREhh
+ .text._ZN7MCP25159getStatusEv
+                0x00001d2c       0x2a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001d2c                _ZN7MCP25159getStatusEv
+ .text._ZN7MCP25157setModeENS_18CANCTRL_REQOP_MODEE
+                0x00001d56       0x64 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001d56                _ZN7MCP25157setModeENS_18CANCTRL_REQOP_MODEE
+ .text._ZN7MCP251513setConfigModeEv
+                0x00001dba        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001dba                _ZN7MCP251513setConfigModeEv
+ .text._ZN7MCP251513setNormalModeEv
+                0x00001dc0        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001dc0                _ZN7MCP251513setNormalModeEv
+ .text._ZN7MCP251510setBitrateE9CAN_SPEED9CAN_CLOCK
+                0x00001dc6      0x18e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001dc6                _ZN7MCP251510setBitrateE9CAN_SPEED9CAN_CLOCK
+ .text._ZN7MCP25159prepareIdEPhbm
+                0x00001f54       0x56 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001f54                _ZN7MCP25159prepareIdEPhbm
+ .text._ZN7MCP251513setFilterMaskENS_4MASKEbm
+                0x00001faa       0x8a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00001faa                _ZN7MCP251513setFilterMaskENS_4MASKEbm
+ .text._ZN7MCP25159setFilterENS_3RXFEbm
+                0x00002034       0xc0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00002034                _ZN7MCP25159setFilterENS_3RXFEbm
+ .text._ZN7MCP25155resetEv
+                0x000020f4      0x140 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x000020f4                _ZN7MCP25155resetEv
+ .text._ZN7MCP251511sendMessageENS_4TXBnEPK9can_frame
+                0x00002234       0xe0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00002234                _ZN7MCP251511sendMessageENS_4TXBnEPK9can_frame
+ .text._ZN7MCP251511sendMessageEPK9can_frame
+                0x00002314       0xc0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00002314                _ZN7MCP251511sendMessageEPK9can_frame
+ .text._ZN7MCP251511readMessageENS_4RXBnEP9can_frame
+                0x000023d4      0x12a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x000023d4                _ZN7MCP251511readMessageENS_4RXBnEP9can_frame
+ .text._ZN7MCP251511readMessageEP9can_frame
+                0x000024fe       0x3c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x000024fe                _ZN7MCP251511readMessageEP9can_frame
+ .text._ZN17LiquidCrystal_I2CC2Ehhh
+                0x0000253a       0x18 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x0000253a                _ZN17LiquidCrystal_I2CC1Ehhh
+                0x0000253a                _ZN17LiquidCrystal_I2CC2Ehhh
+ .text._ZN17LiquidCrystal_I2C13expanderWriteEh
+                0x00002552       0x2e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00002552                _ZN17LiquidCrystal_I2C13expanderWriteEh
+ .text._ZN17LiquidCrystal_I2C9backlightEv
+                0x00002580        0xc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00002580                _ZN17LiquidCrystal_I2C9backlightEv
+ .text._ZN17LiquidCrystal_I2C11pulseEnableEh
+                0x0000258c       0x30 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x0000258c                _ZN17LiquidCrystal_I2C11pulseEnableEh
+ .text._ZN17LiquidCrystal_I2C10write4bitsEh
+                0x000025bc       0x1c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x000025bc                _ZN17LiquidCrystal_I2C10write4bitsEh
+ .text._ZN17LiquidCrystal_I2C4sendEhh
+                0x000025d8       0x2e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x000025d8                _ZN17LiquidCrystal_I2C4sendEhh
+ .text._ZN17LiquidCrystal_I2C7commandEh
+                0x00002606        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00002606                _ZN17LiquidCrystal_I2C7commandEh
+ .text._ZN17LiquidCrystal_I2C5clearEv
+                0x0000260c       0x48 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x0000260c                _ZN17LiquidCrystal_I2C5clearEv
+ .text._ZN17LiquidCrystal_I2C4homeEv
+                0x00002654        0xe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00002654                _ZN17LiquidCrystal_I2C4homeEv
+ .text._ZN17LiquidCrystal_I2C9setCursorEhh
+                0x00002662       0x5c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00002662                _ZN17LiquidCrystal_I2C9setCursorEhh
+ .text._ZN17LiquidCrystal_I2C7displayEv
+                0x000026be       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x000026be                _ZN17LiquidCrystal_I2C7displayEv
+ .text._ZN17LiquidCrystal_I2C5writeEh
+                0x000026ce        0xc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x000026ce                _ZN17LiquidCrystal_I2C5writeEh
+ .text._ZN17LiquidCrystal_I2C6outStrEPc
+                0x000026da      0x1c4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x000026da                _ZN17LiquidCrystal_I2C6outStrEPc
+ .text._ZN17LiquidCrystal_I2C5beginEhhh
+                0x0000289e       0xc2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x0000289e                _ZN17LiquidCrystal_I2C5beginEhhh
+ .text._ZN17LiquidCrystal_I2C9init_privEv
+                0x00002960       0x22 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00002960                _ZN17LiquidCrystal_I2C9init_privEv
+ .text._ZN17LiquidCrystal_I2C4initEv
+                0x00002982        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x00002982                _ZN17LiquidCrystal_I2C4initEv
+ .text._ZN8SPIClass5beginEv
+                0x00002986       0x6c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x00002986                _ZN8SPIClass5beginEv
+ .text._ZN7TwoWire9availableEv
+                0x000029f2       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x000029f2                _ZN7TwoWire9availableEv
+ .text._ZN7TwoWire4readEv
+                0x00002a02       0x28 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a02                _ZN7TwoWire4readEv
+ .text._ZN7TwoWire4peekEv
+                0x00002a2a       0x1e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a2a                _ZN7TwoWire4peekEv
+ .text._ZN7TwoWire5flushEv
+                0x00002a48        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a48                _ZN7TwoWire5flushEv
+ .text._ZN7TwoWire16onReceiveServiceEPhi
+                0x00002a4a       0x54 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a4a                _ZN7TwoWire16onReceiveServiceEPhi
+ .text._ZN7TwoWire16onRequestServiceEv
+                0x00002a9e       0x18 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002a9e                _ZN7TwoWire16onRequestServiceEv
+ .text._ZN7TwoWire5writeEPKhj
+                0x00002ab6       0x5a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002ab6                _ZN7TwoWire5writeEPKhj
+ .text._ZN7TwoWire5writeEh
+                0x00002b10       0x5e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002b10                _ZN7TwoWire5writeEh
+ .text._ZN7TwoWireC2Ev
+                0x00002b6e       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002b6e                _ZN7TwoWireC1Ev
+                0x00002b6e                _ZN7TwoWireC2Ev
+ .text._ZN7TwoWire5beginEv
+                0x00002b8e       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002b8e                _ZN7TwoWire5beginEv
+ .text._ZN7TwoWire17beginTransmissionEh
+                0x00002bb2       0x14 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002bb2                _ZN7TwoWire17beginTransmissionEh
+ .text._ZN7TwoWire15endTransmissionEh
+                0x00002bc6       0x26 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002bc6                _ZN7TwoWire15endTransmissionEh
+ .text._ZN7TwoWire15endTransmissionEv
+                0x00002bec        0x6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00002bec                _ZN7TwoWire15endTransmissionEv
+ .text.startup._GLOBAL__sub_I__ZN7TwoWire8rxBufferE
+                0x00002bf2        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .text.__empty  0x00002bfa        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                0x00002bfa                yield
+ .text.twi_init
+                0x00002bfc       0x3c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002bfc                twi_init
+ .text.twi_writeTo
+                0x00002c38       0xac C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002c38                twi_writeTo
+ .text.twi_transmit
+                0x00002ce4       0x50 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002ce4                twi_transmit
+ .text.twi_attachSlaveRxEvent
+                0x00002d34        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002d34                twi_attachSlaveRxEvent
+ .text.twi_attachSlaveTxEvent
+                0x00002d3e        0xa C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002d3e                twi_attachSlaveTxEvent
+ .text.twi_stop
+                0x00002d48       0x14 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002d48                twi_stop
+ .text.twi_releaseBus
+                0x00002d5c        0xc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002d5c                twi_releaseBus
+ .text.__vector_24
+                0x00002d68      0x25a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                0x00002d68                __vector_24
+ .text.libgcc.div
+                0x00002fc2       0x28 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00002fc2                _div
+                0x00002fc2                __divmodhi4
+ .text.libgcc.div
+                0x00002fea       0x44 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002fea                __udivmodsi4
+ .text.libgcc   0x0000302e        0xc d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x0000302e                __tablejump2__
+ .text.libgcc.div
+                0x0000303a       0x28 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000303a                __udivmodhi4
+ .text.avr-libc.fplib
+                0x00003062        0xe d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x00003062                __fixsfsi
+ .text.avr-libc.fplib
+                0x00003070       0x5e d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00003070                __fixunssfsi
+ .text.avr-libc.fplib
+                0x000030ce       0x7a d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x000030ce                __floatunsisf
+                0x000030d2                __floatsisf
+ .text.avr-libc.fplib
+                0x00003148        0xc d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00003148                __fp_inf
+ .text.avr-libc.fplib
+                0x00003154        0x6 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00003154                __fp_nan
+ .text.avr-libc.fplib
+                0x0000315a        0xe d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000315a                __fp_pscA
+ .text.avr-libc.fplib
+                0x00003168        0xe d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00003168                __fp_pscB
+ .text.avr-libc.fplib
+                0x00003176       0x22 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00003176                __fp_round
+ .text.avr-libc.fplib
+                0x00003198       0x44 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00003198                __fp_split3
+                0x000031a8                __fp_splitA
+ .text.avr-libc.fplib
+                0x000031dc        0xe d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x000031dc                __fp_zero
+                0x000031de                __fp_szero
+ .text.avr-libc.fplib
+                0x000031ea        0x8 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x000031ea                __mulsf3
+ .text.avr-libc.fplib
+                0x000031f2       0xd2 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00003210                __mulsf3x
+                0x00003216                __mulsf3_pse
+ .text.avr-libc
+                0x000032c4       0x12 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x000032c4                memcpy
+                0x000032d6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000032d6        0x0 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x000032d6                _exit
+                0x000032d6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000032d6        0x4 d:/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000032da                _etext = .
+
+.data           0x00800100      0x18e load address 0x000032da
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.stateOff
+                0x00800100        0x2 src/canMessage.o
+                0x00800100                stateOff
+ .data.stateOn  0x00800102        0x2 src/canMessage.o
+                0x00800102                stateOn
+ .data.blinkSpeed_ms
+                0x00800104        0x4 src/index.o
+                0x00800104                blinkSpeed_ms
+ .data.stateStop_
+                0x00800108        0x2 src/index.o
+                0x00800108                stateStop_
+ .data.stateStop
+                0x0080010a        0x2 src/index.o
+                0x0080010a                stateStop
+ .data.stateStart_
+                0x0080010c        0x2 src/index.o
+                0x0080010c                stateStart_
+ .data.stateStart
+                0x0080010e        0x2 src/index.o
+                0x0080010e                stateStart
+ .data.stateF2_
+                0x00800110        0x2 src/index.o
+                0x00800110                stateF2_
+ .data.stateF2  0x00800112        0x2 src/index.o
+                0x00800112                stateF2
+ .data.stateF1_
+                0x00800114        0x2 src/index.o
+                0x00800114                stateF1_
+ .data.stateF1  0x00800116        0x2 src/index.o
+                0x00800116                stateF1
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800118        0x9 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .rodata        0x00800121        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800129        0x4 src/index.o
+ .rodata.str1.1
+                0x0080012d      0x131 src/lcd.o
+                                0x143 (size before relaxing)
+ .rodata._ZN7MCP25153RXBE
+                0x0080025e        0x8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x0080025e                _ZN7MCP25153RXBE
+ .rodata._ZN7MCP25153TXBE
+                0x00800266        0x9 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                0x00800266                _ZN7MCP25153TXBE
+ .rodata._ZTV17LiquidCrystal_I2C
+                0x0080026f        0xc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                0x0080026f                _ZTV17LiquidCrystal_I2C
+ .rodata._ZTV7TwoWire
+                0x0080027b       0x12 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x0080027b                _ZTV7TwoWire
+ *(.gnu.linkonce.r*)
+                0x0080028e                . = ALIGN (0x2)
+ *fill*         0x0080028d        0x1 
+                0x0080028e                _edata = .
+                0x0080028e                PROVIDE (__data_end, .)
+
+.bss            0x0080028e      0x166
+                0x0080028e                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.index     0x0080028e        0x2 src/canMessage.o
+                0x0080028e                index
+ .bss.valLcd    0x00800290       0x36 src/canMessage.o
+                0x00800290                valLcd
+ .bss.previousMillis
+                0x008002c6        0x4 src/canMessage.o
+                0x008002c6                previousMillis
+ .bss.currentMillis
+                0x008002ca        0x4 src/canMessage.o
+                0x008002ca                currentMillis
+ .bss.stateOff_
+                0x008002ce        0x2 src/canMessage.o
+                0x008002ce                stateOff_
+ .bss.stateOn_  0x008002d0        0x2 src/canMessage.o
+                0x008002d0                stateOn_
+ *fill*         0x008002d2        0x6 
+ .bss.canMsg    0x008002d8       0x10 src/canMessage.o
+                0x008002d8                canMsg
+ .bss.canMsg1   0x008002e8       0x10 src/canMessage.o
+                0x008002e8                canMsg1
+ .bss.mcp2515   0x008002f8        0x1 src/canMessage.o
+                0x008002f8                mcp2515
+ .bss.chooseVal
+                0x008002f9        0x2 src/index.o
+                0x008002f9                chooseVal
+ .bss.blinkTime
+                0x008002fb        0x4 src/index.o
+                0x008002fb                blinkTime
+ .bss.i         0x008002ff        0x2 src/index.o
+                0x008002ff                i
+ .bss.currentMode_Under
+                0x00800301        0x2 src/index.o
+                0x00800301                currentMode_Under
+ .bss.currentMode
+                0x00800303        0x2 src/index.o
+                0x00800303                currentMode
+ .bss.firstTimeF2
+                0x00800305        0x4 src/index.o
+                0x00800305                firstTimeF2
+ .bss.OLED1     0x00800309        0xc src/lcd.o
+                0x00800309                OLED1
+ .bss.currentScreen
+                0x00800315        0x2 src/lcd.o
+                0x00800315                currentScreen
+ .bss.valLcd_   0x00800317        0xc src/lcd.o
+                0x00800317                valLcd_
+ .bss.timer0_fract
+                0x00800323        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x00800324        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800324                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800328        0x4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00800328                timer0_overflow_count
+ .bss._ZN8SPIClass13interruptSaveE
+                0x0080032c        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080032c                _ZN8SPIClass13interruptSaveE
+ .bss._ZN8SPIClass13interruptMaskE
+                0x0080032d        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080032d                _ZN8SPIClass13interruptMaskE
+ .bss._ZN8SPIClass13interruptModeE
+                0x0080032e        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080032e                _ZN8SPIClass13interruptModeE
+ .bss._ZN8SPIClass11initializedE
+                0x0080032f        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                0x0080032f                _ZN8SPIClass11initializedE
+ .bss.Wire      0x00800330        0xc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800330                Wire
+ .bss._ZN7TwoWire14user_onReceiveE
+                0x0080033c        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x0080033c                _ZN7TwoWire14user_onReceiveE
+ .bss._ZN7TwoWire14user_onRequestE
+                0x0080033e        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x0080033e                _ZN7TwoWire14user_onRequestE
+ .bss._ZN7TwoWire12transmittingE
+                0x00800340        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800340                _ZN7TwoWire12transmittingE
+ .bss._ZN7TwoWire14txBufferLengthE
+                0x00800341        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800341                _ZN7TwoWire14txBufferLengthE
+ .bss._ZN7TwoWire13txBufferIndexE
+                0x00800342        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800342                _ZN7TwoWire13txBufferIndexE
+ .bss._ZN7TwoWire8txBufferE
+                0x00800343       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800343                _ZN7TwoWire8txBufferE
+ .bss._ZN7TwoWire9txAddressE
+                0x00800363        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800363                _ZN7TwoWire9txAddressE
+ .bss._ZN7TwoWire14rxBufferLengthE
+                0x00800364        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800364                _ZN7TwoWire14rxBufferLengthE
+ .bss._ZN7TwoWire13rxBufferIndexE
+                0x00800365        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800365                _ZN7TwoWire13rxBufferIndexE
+ .bss._ZN7TwoWire8rxBufferE
+                0x00800366       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                0x00800366                _ZN7TwoWire8rxBufferE
+ .bss.twi_error
+                0x00800386        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBufferIndex
+                0x00800387        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_rxBuffer
+                0x00800388       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferLength
+                0x008003a8        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBufferIndex
+                0x008003a9        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_txBuffer
+                0x008003aa       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferLength
+                0x008003ca        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBufferIndex
+                0x008003cb        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_masterBuffer
+                0x008003cc       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveReceive
+                0x008003ec        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_onSlaveTransmit
+                0x008003ee        0x2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_inRepStart
+                0x008003f0        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_sendStop
+                0x008003f1        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_slarw
+                0x008003f2        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ .bss.twi_state
+                0x008003f3        0x1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+ *(COMMON)
+                0x008003f4                PROVIDE (__bss_end, .)
+                0x000032da                __data_load_start = LOADADDR (.data)
+                0x00003468                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008003f4        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008003f4                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 src/buttons.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 src/canMessage.o
+ .comment       0x00000030       0x31 src/index.o
+ .comment       0x00000030       0x31 src/lcd.o
+ .comment       0x00000030       0x31 src/main.o
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000030       0x31 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x840
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 src/buttons.o
+ .debug_aranges
+                0x00000020       0x58 src/canMessage.o
+ .debug_aranges
+                0x00000078       0x60 src/index.o
+ .debug_aranges
+                0x000000d8       0xe8 src/lcd.o
+ .debug_aranges
+                0x000001c0       0x28 src/main.o
+ .debug_aranges
+                0x000001e8       0x30 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000218      0x100 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000318       0x48 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000360       0x38 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x00000398      0x158 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .debug_aranges
+                0x000004f0      0x180 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .debug_aranges
+                0x00000670       0x38 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_aranges
+                0x000006a8       0xf8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_aranges
+                0x000007a0       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_aranges
+                0x000007c0       0x80 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xf9c6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x21b src/buttons.o
+ .debug_info    0x0000080f     0x19dd src/canMessage.o
+ .debug_info    0x000021ec      0x97a src/index.o
+ .debug_info    0x00002b66     0x1987 src/lcd.o
+ .debug_info    0x000044ed      0x23c src/main.o
+ .debug_info    0x00004729      0x237 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00004960     0x28ff C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x0000725f      0x2cb C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x0000752a      0x5fe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x00007b28     0x2d51 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .debug_info    0x0000a879     0x1c3e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .debug_info    0x0000c4b7      0x66b C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_info    0x0000cb22     0x2862 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_info    0x0000f384       0x3e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x0000f3c2      0x604 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_abbrev   0x00000000     0x2c96
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2       0xd3 src/buttons.o
+ .debug_abbrev  0x00000675      0x47b src/canMessage.o
+ .debug_abbrev  0x00000af0      0x1c1 src/index.o
+ .debug_abbrev  0x00000cb1      0x280 src/lcd.o
+ .debug_abbrev  0x00000f31       0xc5 src/main.o
+ .debug_abbrev  0x00000ff6      0x12d C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x00001123      0x47a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x0000159d      0x146 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x000016e3      0x15b C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x0000183e      0x58e C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .debug_abbrev  0x00001dcc      0x417 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .debug_abbrev  0x000021e3      0x283 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_abbrev  0x00002466      0x5a6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_abbrev  0x00002a0c       0x2a C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00002a36      0x260 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_line     0x00000000     0x4404
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x11b src/buttons.o
+ .debug_line    0x0000024f      0x40f src/canMessage.o
+ .debug_line    0x0000065e      0x436 src/index.o
+ .debug_line    0x00000a94      0x7f6 src/lcd.o
+ .debug_line    0x0000128a      0x153 src/main.o
+ .debug_line    0x000013dd      0x144 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00001521      0x643 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00001b64      0x278 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00001ddc      0x231 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x0000200d      0xc90 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .debug_line    0x00002c9d      0x9d8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .debug_line    0x00003675      0x2a1 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_line    0x00003916      0x5d9 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_line    0x00003eef       0x41 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00003f30      0x4d4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_frame    0x00000000     0x16c8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x24 src/buttons.o
+ .debug_frame   0x00000024       0xc8 src/canMessage.o
+ .debug_frame   0x000000ec       0xe0 src/index.o
+ .debug_frame   0x000001cc      0x234 src/lcd.o
+ .debug_frame   0x00000400       0x34 src/main.o
+ .debug_frame   0x00000434       0x54 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x00000488      0x3ac C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000834       0xc4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000008f8       0x7c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00000974      0x540 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .debug_frame   0x00000eb4      0x3e0 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .debug_frame   0x00001294       0x5c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_frame   0x000012f0      0x280 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_frame   0x00001570       0x24 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00001594      0x134 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_str      0x00000000     0x4dcf
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 D:/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x24c src/buttons.o
+                                0x28c (size before relaxing)
+ .debug_str     0x00000454     0x169f src/canMessage.o
+                               0x1938 (size before relaxing)
+ .debug_str     0x00001af3      0x4d7 src/index.o
+                                0x9b2 (size before relaxing)
+ .debug_str     0x00001fca      0x37d src/lcd.o
+                                0x8db (size before relaxing)
+ .debug_str     0x00002347       0x1b src/main.o
+                                0x354 (size before relaxing)
+ .debug_str     0x00002362       0xb2 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2b7 (size before relaxing)
+ .debug_str     0x00002414      0xf34 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1245 (size before relaxing)
+ .debug_str     0x00003348      0x153 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x24d (size before relaxing)
+ .debug_str     0x0000349b       0xb6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2b2 (size before relaxing)
+ .debug_str     0x00003551      0x334 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+                               0x18ab (size before relaxing)
+ .debug_str     0x00003885      0xa40 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+                                0xe8c (size before relaxing)
+ .debug_str     0x000042c5       0x9f C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+                                0x6b0 (size before relaxing)
+ .debug_str     0x00004364      0x8fe C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+                               0x18ff (size before relaxing)
+ .debug_str     0x00004c62       0x1c C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                                0x142 (size before relaxing)
+ .debug_str     0x00004c7e      0x151 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+                                0x3cd (size before relaxing)
+
+.debug_loc      0x00000000     0x7afc
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x5c3 src/canMessage.o
+ .debug_loc     0x000005c3      0x183 src/index.o
+ .debug_loc     0x00000746      0x699 src/lcd.o
+ .debug_loc     0x00000ddf     0x1c87 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x00002a66      0x28d C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00002cf3      0x5fc C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x000032ef     0x26f6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .debug_loc     0x000059e5      0xf67 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .debug_loc     0x0000694c      0x1e4 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_loc     0x00006b30      0xbe6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_loc     0x00007716      0x3e6 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x7b8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 src/buttons.o
+ .debug_ranges  0x00000010       0x48 src/canMessage.o
+ .debug_ranges  0x00000058       0x50 src/index.o
+ .debug_ranges  0x000000a8       0xd8 src/lcd.o
+ .debug_ranges  0x00000180       0x18 src/main.o
+ .debug_ranges  0x00000198       0x20 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x000001b8      0x120 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x000002d8       0x38 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000310       0x28 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000338      0x180 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(mcp2515.o)
+ .debug_ranges  0x000004b8      0x170 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(LiquidCrystal_I2C_OLED.o)
+ .debug_ranges  0x00000628       0x28 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(SPI.o)
+ .debug_ranges  0x00000650       0xe8 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(Wire.o)
+ .debug_ranges  0x00000738       0x10 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000748       0x70 C:\Users\mashk\Desktop\Lcdtask\21_12_21\oledTest\oledTest\ArduinoCore\Debug\libArduinoCore.a(twi.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(OLED_I2CRus_test.elf elf32-avr)
+LOAD linker stubs
